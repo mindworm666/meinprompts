@@ -1,4 +1,4 @@
-# MeinPrompts
+# MeinPrompts (hehe)
 
 **A curated collection of AI collaboration templates.**
 
